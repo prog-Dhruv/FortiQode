@@ -1,4 +1,4 @@
-# FortiQod
+# FortiQode
 
 FortiQode is a QR-like encrypted image generator that hides secret messages inside a custom 100×100 grid.<br>
 Unlike standard QR codes, this system:
